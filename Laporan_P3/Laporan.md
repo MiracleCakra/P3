@@ -65,3 +65,42 @@ Run pada kode program
     Jawab: agar method lebih mudah untuk dikerjakan
 
 
+### 3.3 Percobaan 2: Menerima Input Isian Array Menggunakan Looping
+
+### 3.3.1 Langkah-langkah Percobaan
+
+<img src = "in ArrayPerco2.png">
+
+### 3.3.2 Verifikasi Hasil Percobaan
+
+<img src = "out ArrayPerco2.png">
+
+### 3.3.3 Pertanyaan
+
+1. Apakah array of object dapat diimplementasikan pada array 2 Dimensi?
+
+    Jawab:
+
+2. Jika jawaban soal no satu iya, berikan contohnya! Jika tidak, jelaskan!
+
+    Jawab:
+
+3. Jika diketahui terdapat class Persegi yang memiliki atribut sisi bertipe integer, maka kode dibawah ini akan memunculkan error saat dijalankan. Mengapa?
+
+    Jawab:
+
+4. Modifikasi kode program pada praktikum 3.3 agar length array menjadi inputan dengan Scanner!
+
+    Jawab:
+
+5. Apakah boleh Jika terjadi duplikasi instansiasi array of objek, misalkan saja instansiasi dilakukan pada ppArray[i] sekaligus ppArray[0]?Jelaskan !
+
+    Jawab:
+
+
+
+### 3.4 Percobaan 3: Penambahan Operasi Matematika di Dalam Method
+
+### 3.4.1 Langkah-langkah Percobaan
+
+
