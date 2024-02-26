@@ -63,3 +63,5 @@ Run pada kode program
 5. Mengapa class main dan juga class PersegiPanjang dipisahkan pada uji coba
 
     Jawab: agar method lebih mudah untuk dikerjakan
+
+
