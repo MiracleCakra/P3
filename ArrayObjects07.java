@@ -1,9 +1,10 @@
-package P3;
-
 import java.util.Scanner;
 public class ArrayObjects07 {
     public static void main(String[] args) {
-        PersegiPanjang[] ppArray = new PersegiPanjang[3];
+        Scanner a = new Scanner(System.in);
+        System.out.print("Masukkan banyaknya persegi: ");
+        int banyak = a.nextInt();
+        PersegiPanjang[] ppArray = new PersegiPanjang[banyak];
 
         Scanner sc = new Scanner(System.in);
 
@@ -22,4 +23,3 @@ public class ArrayObjects07 {
         }
     }
 }
-    

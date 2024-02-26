@@ -80,27 +80,89 @@ Run pada kode program
 1. Apakah array of object dapat diimplementasikan pada array 2 Dimensi?
 
     Jawab:
-
+    Bisa
 2. Jika jawaban soal no satu iya, berikan contohnya! Jika tidak, jelaskan!
 
     Jawab:
-
+    
+<img src = "jawabanperco2.png">
 3. Jika diketahui terdapat class Persegi yang memiliki atribut sisi bertipe integer, maka kode dibawah ini akan memunculkan error saat dijalankan. Mengapa?
 
     Jawab:
+    kode tersebut akan mengalami error dikarenakan tidak ada object dari persegi yang diiniliasasikan pada elemen array.
 
 4. Modifikasi kode program pada praktikum 3.3 agar length array menjadi inputan dengan Scanner!
 
     Jawab:
 
+    <img src = "jawabanperco2no4.png">
+
+
 5. Apakah boleh Jika terjadi duplikasi instansiasi array of objek, misalkan saja instansiasi dilakukan pada ppArray[i] sekaligus ppArray[0]?Jelaskan !
 
     Jawab:
+    boleh, tetapi tetap ada resiko jika akan duplikasi instansiasi array karena akan data yang sebelumnya akan berganti dengan data baru
 
 
 
 ### 3.4 Percobaan 3: Penambahan Operasi Matematika di Dalam Method
 
 ### 3.4.1 Langkah-langkah Percobaan
+
+Class Balok
+
+<img src = "in BalokPerco3.png">
+
+Main ArrayBalok
+
+<img src = "in ArrayBalokPerco3.png">
+
+### 3.4.2 Verifikasi Hasil Percobaan
+
+<img src = "out ArrayBalokPerco3.png">
+
+### 3.4.3 Pertanyaan
+
+1. Dapatkah konstruktor berjumlah lebih dalam satu kelas? Jelaskan dengan contoh!
+
+    Jawab:
+
+    konstruktor dapat berjumlah lebih dalam 1 kelas dengan contoh
+
+    <img src = "jawabanperco3.png">
+
+2. Jika diketahui terdapat class Segitiga seperti berikut ini:
+Tambahkan konstruktor pada class Segitiga tersebut yang berisi parameter int a, int t yang masing-masing digunakan untuk mengisikan atribut alas dan tinggi.
+
+    Jawab:
+<img src = "segitiga.png">
+
+
+3. Tambahkan method hitungLuas() dan hitungKeliling() pada class Segitiga tersebut. Asumsi segitiga adalah segitiga siku-siku. (Hint: Anda dapat menggunakan bantuan library Math pada Java untuk mengkalkulasi sisi miring)
+
+    Jawab:
+
+    <img src = "segitiga2.png">
+
+4. Pada fungsi main, buat array Segitiga sgArray yang berisi 4 elemen, isikan masing-masing atributnya sebagai berikut:
+sgArray ke-0 alas: 10, tinggi: 4
+sgArray ke-1 alas: 20, tinggi: 10
+sgArray ke-2 alas: 15, tinggi: 6
+sgArray ke-3 alas: 25, tinggi: 10
+
+    Jawab:
+
+    <img src = "segitiga3.png">
+
+5. Kemudian menggunakan looping, cetak luas dan keliling dengan cara memanggil method hitungLuas() dan hitungKeliling().
+
+    Jawab:
+
+    input kode program
+    <img src = "segitiga4.png">
+
+    output kode program
+    
+    <img src = "outsegitiga.png">
 
 
