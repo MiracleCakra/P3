@@ -15,7 +15,7 @@ Absen   : 07
 
 class Persegi panjang 
 
-<img src = "Persegipanjang.png">
+<img src = "PersegiPanjang.png">
 
 Array Objects
 
