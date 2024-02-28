@@ -135,12 +135,14 @@ Main ArrayBalok
 Tambahkan konstruktor pada class Segitiga tersebut yang berisi parameter int a, int t yang masing-masing digunakan untuk mengisikan atribut alas dan tinggi.
 
     Jawab:
-<img src = "segitiga.png">
+
+    <img src = "segitiga.png">
 
 
 3. Tambahkan method hitungLuas() dan hitungKeliling() pada class Segitiga tersebut. Asumsi segitiga adalah segitiga siku-siku. (Hint: Anda dapat menggunakan bantuan library Math pada Java untuk mengkalkulasi sisi miring)
 
     Jawab:
+
 
     <img src = "segitiga2.png">
 
@@ -185,12 +187,15 @@ sgArray ke-3 alas: 25, tinggi: 10
     <img src = "bangunruang2.png">
 
     Kerucut
+    
     <img src = "kerucut1.png">
 
     Limas
+    
     <img src = "limas1.png">
 
     Bola
+    
     <img src = "bola1.png">
 
     Output pada kode program
