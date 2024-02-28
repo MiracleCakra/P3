@@ -191,10 +191,10 @@ sgArray ke-3 alas: 25, tinggi: 10
     <img src = "limas1.png">
 
     Bola
-    <img src = "Bola1.png">
+    <img src = "bola1.png">
 
     Output pada kode program
-    
+
     <img src = "outbangunruang.png">
 
 
