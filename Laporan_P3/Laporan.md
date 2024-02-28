@@ -24,6 +24,7 @@ Array Objects
 ### 3.2.2 Verifikasi Hasil Percobaan
 
 Run pada kode program
+
 <img src = "outArrayObjects.png">
 
 ### 3.2.3 Pertanyaan
@@ -86,6 +87,7 @@ Run pada kode program
     Jawab:
     
 <img src = "jawabanperco2.png">
+
 3. Jika diketahui terdapat class Persegi yang memiliki atribut sisi bertipe integer, maka kode dibawah ini akan memunculkan error saat dijalankan. Mengapa?
 
     Jawab:
