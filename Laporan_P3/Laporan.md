@@ -166,3 +166,55 @@ sgArray ke-3 alas: 25, tinggi: 10
     <img src = "outsegitiga.png">
 
 
+### 3.5 Latihan Praktikum
+
+1. Buatlah program yang dapat menghitung luas permukaan dan volume bangun ruang kerucut, limas segi empat sama sisi, dan bola. Buatlah 3 (tiga) class sesuai dengan jumlah jenis bangun ruang. Buatlah satu main class untuk membuat array of objects yang menginputkan atribut-atribut yang ada menggunakan konstruktor semua bangun ruang tersebut. Dengan ketentuan,
+
+    a. Buat looping untuk menginputkan masing-masing atributnya, kemudian tampilkan luas permukaan dan volume dari tiap jenis bangun ruang tersebut.
+
+    b. Pada kerucut, inputan untuk atribut hanya jari-jari dan sisi miring
+
+    c. Pada limas segi empat sama sisi, inputan untuk atribut hanya panjang sisi alas dan tinggi limas
+
+    d. Pada bola, inpuntan untuk atribut hanya jari-jari
+
+    Input pada kode program
+
+    <img src = "bangunruang1.png">
+    <img src = "bangunruang2.png">
+
+    Kerucut
+    <img src = "kerucut1.png">
+
+    Limas
+    <img src = "limas1.png">
+
+    Bola
+    <img src = "Bola1.png">
+
+    Output pada kode program
+    <img src = "outbangunruang.png">
+
+
+2. Sebuah kampus membutuhkan program untuk menampilkan informasi mahasiswa berupa nama, nim, jenis kelamin dan juga IPK mahasiswa. Program dapat menerima input semua informasi tersebut, kemudian menampilkanya kembali ke user. Implementasikan program tersebut jika dimisalkan terdapat 3 data mahasiswa yang tersedia. Contoh output program:
+
+    <img src ="soal lat2.png">
+
+    Input pada kode program
+    <img src = "inlat2.png">
+
+    Output pada kode program
+    <img src = "outlat2.png">
+
+3. Modifikasi program Latihan no.2 di atas, sehingga bisa digunakan untuk menghitung rata-rata IPK, serta menampilkan data mahasiswa dengan IPK terbesar! (gunakan method untuk masing-masing proses tersebut)
+
+
+Input pada kode program
+
+<img src = "lat3modif.png">
+<img src = "lat3modif2.png">
+
+Output pada kode program
+
+<img src = "outlat3.png">
+<img src = "outlat3.2.png">
