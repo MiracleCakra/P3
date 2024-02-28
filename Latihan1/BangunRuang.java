@@ -19,7 +19,9 @@ public class BangunRuang {
       System.out.print("Volume Pada Kerucut ke - " + i + ": " + kerucut[i].hitungVolume() + "\n");
       System.out.print("----------------------------------------------\n");
       System.out.println();
+    }
 
+    for (int i = 0; i < limas.length; i++) {
       System.out.print("Masukkan panjang sisi Alas Limas: ");
       double pslLimas = sc.nextDouble();
       System.out.print("Masukkan tinggi Limas: ");
@@ -30,7 +32,9 @@ public class BangunRuang {
       System.out.print("Volume Pada Limas ke -" + i + ": " + limas[i].hitungVolume() + "\n");
       System.out.print("----------------------------------------------\n");
       System.out.println();
+    }
 
+    for (int i = 0; i < bola.length; i++) {
       System.out.print("Masukkan jari-jari bola: ");
       double jjBola = sc.nextDouble();
       System.out.print("----------------------------------------------\n");
@@ -39,8 +43,6 @@ public class BangunRuang {
       System.out.print("Volume Pada bola ke -" + i + ": " + bola[i].hitungVolume() + "\n");
       System.out.print("----------------------------------------------\n");
       System.out.println();
-
     }
-
   }
 }
