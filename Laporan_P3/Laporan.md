@@ -180,6 +180,7 @@ sgArray ke-3 alas: 25, tinggi: 10
 
     Input pada kode program
 
+
     <img src = "bangunruang1.png">
     <img src = "bangunruang2.png">
 
@@ -193,6 +194,7 @@ sgArray ke-3 alas: 25, tinggi: 10
     <img src = "Bola1.png">
 
     Output pada kode program
+    
     <img src = "outbangunruang.png">
 
 
@@ -201,15 +203,30 @@ sgArray ke-3 alas: 25, tinggi: 10
     <img src ="soal lat2.png">
 
     Input pada kode program
+
+    class
+
+    <img src = "classlat2.png">
+
+    Main
+
     <img src = "inlat2.png">
 
     Output pada kode program
+
     <img src = "outlat2.png">
 
 3. Modifikasi program Latihan no.2 di atas, sehingga bisa digunakan untuk menghitung rata-rata IPK, serta menampilkan data mahasiswa dengan IPK terbesar! (gunakan method untuk masing-masing proses tersebut)
 
 
 Input pada kode program
+
+
+class
+
+<img src = "classlat3.png">
+
+Main
 
 <img src = "lat3modif.png">
 <img src = "lat3modif2.png">
