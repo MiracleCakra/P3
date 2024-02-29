@@ -182,11 +182,13 @@ sgArray ke-3 alas: 25, tinggi: 10
 
     d. Pada bola, inpuntan untuk atribut hanya jari-jari
 
-    Input pada kode program
+    Input pada Main kode program
 
 
     <img src = "bangunruang1.png">
     <img src = "bangunruang2.png">
+
+    Input pada class kode program
 
     Kerucut
     
@@ -203,7 +205,7 @@ sgArray ke-3 alas: 25, tinggi: 10
     Output pada kode program
 
     <img src = "outbangunruang.png">
-
+    <img src = "outbangunruang2.png">
 
 2. Sebuah kampus membutuhkan program untuk menampilkan informasi mahasiswa berupa nama, nim, jenis kelamin dan juga IPK mahasiswa. Program dapat menerima input semua informasi tersebut, kemudian menampilkanya kembali ke user. Implementasikan program tersebut jika dimisalkan terdapat 3 data mahasiswa yang tersedia. Contoh output program:
 
@@ -226,19 +228,20 @@ sgArray ke-3 alas: 25, tinggi: 10
 3. Modifikasi program Latihan no.2 di atas, sehingga bisa digunakan untuk menghitung rata-rata IPK, serta menampilkan data mahasiswa dengan IPK terbesar! (gunakan method untuk masing-masing proses tersebut)
 
 
-Input pada kode program
+    Input pada kode program
 
 
-class
+    class
 
-<img src = "classlat3.png">
+    <img src = "classlat3.png">
 
-Main
+    Main
 
-<img src = "lat3modif.png">
-<img src = "lat3modif2.png">
+    <img src = "lat3modif.png">
+    <img src = "lat3modif2.png">
+    
 
-Output pada kode program
+    Output pada kode program
 
-<img src = "outlat3.png">
-<img src = "outlat3.2.png">
+    <img src = "outlat3.png">
+    <img src = "outlat3.2.png">
